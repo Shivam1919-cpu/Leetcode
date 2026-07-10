@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0238-product-of-array-except-self) |
 ## Math
 |  |
 | ------- |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
