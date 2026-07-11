@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
