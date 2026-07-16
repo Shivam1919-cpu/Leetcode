@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivam1919-cpu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Shivam1919-cpu/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0208-implement-trie-prefix-tree](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
@@ -94,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/Shivam1919-cpu/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
