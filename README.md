@@ -19,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Array
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0209-minimum-size-subarray-sum](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
